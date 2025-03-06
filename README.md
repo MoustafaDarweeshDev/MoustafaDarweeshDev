@@ -7,7 +7,8 @@
 
 - 📫 How to reach me [moustafa.darweesh.dev@gmail.com](moustafa.darweesh.dev@gmail.com)
 
-- 📄 Know about my experiences <a href="https://drive.google.com/uc?export=download&id=1ylhFLNvLMk9vbHhdAkTrzPzy8Ylznei6" target="_blank" rel="noopener noreferrer">My Resume</a>
+- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ylhFLNvLMk9vbHhdAkTrzPzy8Ylznei6/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
